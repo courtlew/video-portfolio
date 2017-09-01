@@ -61,7 +61,7 @@ h2 {
   color: black;
 }
 
-h2 a:link {
+.text a:link {
   text-decoration: none;
   color: black;
 }
