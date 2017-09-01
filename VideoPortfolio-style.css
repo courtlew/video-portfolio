@@ -61,8 +61,8 @@ h2 {
   color: black;
 }
 
-.text a:link {
-  text-decoration: none;
+.text a {
+  /*text-decoration: none;*/
   color: black;
 }
 
