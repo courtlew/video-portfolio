@@ -1,0 +1,140 @@
+body {
+  margin: 0px;
+}
+
+header {
+  height: 11em;
+  background-color: gray;
+  background-position: top;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: 'helvetica', sans-serif;
+  color: white;
+  text-shadow: 2px 1px rgb(87, 87, 84);
+  margin-bottom: 75px;
+}
+
+h1 {
+  font-size: 60px;
+  /*font-weight: bold;*/
+  margin: 0px 5px 5px 11px;
+}
+
+header p {
+  font-size: 26px;
+  margin: 0px 5px 0px 11px;
+  /*font-weight: bold;*/
+}
+
+.park {
+  width: 77%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.picture {
+  margin-right: 25px;
+  margin-bottom: 60px;
+}
+
+section img {
+  height: 233.5px;
+  width: 350px;
+  /*border: 2px solid rgb(140, 21, 21);*/
+}
+
+section p {
+  margin-bottom: 0px;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'helvetica', sans-serif;
+  font-size: 30px;
+  color: black;
+}
+
+h2 a {
+  text-decoration: none;
+}
+
+.descript {
+  font-family: 'helvetica', sans-serif;
+  font-size: 18px;
+}
+
+.divide {
+  margin-left: auto;
+  margin-right: auto;
+  height: 15px;
+  width: 77%;
+  margin-bottom: 60px;
+  border-bottom: 0.5px dotted rgb(87, 87, 84);
+}
+
+footer {
+  height: 12em;
+  background-color: gray;
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 60px;
+}
+
+#about {
+  width: 33%;
+  height: 76%;
+  margin-left: 11px;
+  margin-bottom: 35px;
+  font-family: 'helvetica', sans-serif;
+  text-shadow: 1px 1px rgb(87, 87, 84);
+}
+
+#social {
+  width: 33%;
+  height: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 11px;
+  padding-top: 85px;
+  /*margin-bottom: 5px;*/
+}
+
+#about h3 {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 6px;
+    margin-top: 0px;
+}
+
+#about p {
+  font-size: 18px;
+  color: white;
+}
+
+#Twitter {
+    height: 6em;
+    width: 6em;
+    margin: none;
+}
+
+#IG {
+  height: 5em;
+  width: 5em;
+  margin: none;
+}
+
+#LinkedIn {
+  height: 3.5em;
+  width: 3.5em;
+  margin: none;
+}
